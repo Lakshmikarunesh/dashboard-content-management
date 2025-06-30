@@ -225,10 +225,6 @@ VITE_TMDB_API_KEY=your_tmdb_api_key
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 **Acknowledgments**
 
 - **React Beautiful DnD**: For smooth drag-and-drop functionality
@@ -240,4 +236,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**ContentHub** - Where personalization meets performance. Built with ❤️ using modern web technologies.
+**ContentHub** 
