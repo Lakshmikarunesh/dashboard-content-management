@@ -4,6 +4,11 @@ A modern, feature-rich dashboard application that aggregates content from multip
 
 ## 🚀 Advanced Features
 
+# Demo link 
+
+video : https://youtu.be/d9CYiz0DAd8
+live : https://dashboard-content-management.vercel.app/
+
 ### 🎯 **Drag & Drop Content Organization**
 - **Interactive Reordering**: Drag and drop content cards to customize your feed layout
 - **Visual Feedback**: Smooth animations and visual cues during drag operations
